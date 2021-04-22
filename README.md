@@ -35,7 +35,7 @@ Se provee la clase DTOUtils que posee varios metodos para realizar mapeos de:
 * Un DTO a un DTO.
 * Una lista de entities a un DTO.
 
-### Ejemplo de implementacion
+### Ejemplo de implementación
 Un ejemplo para comprender mejor como utilizar los métodos de conversion puede
  verse en la clase ConversionTest.
  
